@@ -217,8 +217,8 @@ span {
 
 .container .skills-content .box {
   position: relative;
-  padding: 20px;
-  height: 125px;
+  padding: 10px 20px;
+  height: 140px;
   border: 2px solid #eaeaea;
   background-color: #DDDAE8;
   transition: all 0.4s;
@@ -252,7 +252,7 @@ span {
 
 .box p {
   line-height: 1.2;
-  font-size: 15px;
+  font-size: 17px;
   text-align: justify;
 }
 
@@ -324,7 +324,15 @@ footer {
 
   .skills {
     height: auto;
-    padding: 35px 5%;
+  }
+
+  .container .skills-content .box{
+    height: 150px;
+    padding: 10px;
+  }
+
+  .box p{
+    font-size: 15px;
   }
 
   .skills-main .container:nth-child(2) {
