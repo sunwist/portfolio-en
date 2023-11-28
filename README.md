@@ -3,4 +3,4 @@
  
  Site: https://sunwist.github.io/portfolio-en/
  
-![portfolio-en](https://github.com/sunwist/portfolio-en/assets/104114717/49f7f8c3-5ca4-4e1c-b9b3-2bee67080ed4)
+![portfolio-en](https://github.com/sunwist/portfolio-en/assets/104114717/03324907-6ef5-4093-88f8-74151c580854)
